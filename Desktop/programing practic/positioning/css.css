@@ -1,0 +1,36 @@
+.logo{
+    translate: (30px ,40px);
+}
+
+#he{
+    translate: (40px ,40px);
+}
+
+
+
+h1{
+    color: rgb(26, 26, 26);
+}
+
+
+.icon{
+     display: inline;
+    position: relative;
+    top: -90px;
+    left: 10px;
+    translate: 40 px, _40px ;
+}
+
+.design{
+    display: block;
+     display: block;
+    
+
+
+    width: 100px;
+    height: 100px;
+    color: rgb(20, 12, 0);
+}
+
+.back{
+   
